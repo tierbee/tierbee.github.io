@@ -1,3 +1,5 @@
+## Arch Installation - Connor Silks
+
 **Partitioning the Disks:**
 
 Firstly, I used the following command to find the name and path of my disk, /dev/sda/, so that I could begin partitioning it:
