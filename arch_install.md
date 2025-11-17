@@ -1,3 +1,8 @@
+---
+title: Arch Install
+filename: arch_install.d
+---
+
 ## Arch Installation - Connor Silks
 
 **Partitioning the Disks:**
