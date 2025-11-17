@@ -1,3 +1,7 @@
+---
+title: title
+---
+
 **Docker Installation:** 
 
 Following the Docker Engine Install Wiki, specifically in the Ubuntu section to align with my Linux Distribution of choice for my Proxmox VM, I began by checking if any conflicting packages needed to be uninstalled with ``sudo apt remove $(dpkg --get-selections docker.io docker-compose docker-compose-v2 docker-doc podman-docker containerd runc | cut -f1)``. None of the packages ended up being installed. 
