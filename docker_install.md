@@ -1,5 +1,7 @@
 ---
-title: title
+title: Docker Install
+layout: template
+filename: docker_install.md
 ---
 
 **Docker Installation:** 
